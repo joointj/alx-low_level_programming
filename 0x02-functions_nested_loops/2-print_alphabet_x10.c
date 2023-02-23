@@ -6,11 +6,6 @@
  * Return: Always 0.
  */
 
-void /**
- * main - check the code.
- *
- * Return: Always 0.
- */
 void print =_alphabet_x10(void)
 {
 	int i;
@@ -20,6 +15,7 @@ void print =_alphabet_x10(void)
 	{
 		_putchar(j);
 	}
-	_putchar("\n"
+	_putchar("\n");
+	
 			}
 			}
